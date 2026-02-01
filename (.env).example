@@ -1,0 +1,19 @@
+# Telegram Bot Configuration
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+ADMIN_TELEGRAM_ID=your_telegram_user_id_here
+
+# Server Configuration
+PORT=3000
+
+# Database
+DB_PATH=./database.sqlite
+
+# Session Configuration
+SESSIONS_PATH=./sessions
+
+# Auto React Configuration
+AUTO_REACT_ENABLED=true
+DEFAULT_REACTION=❤️
+
+# Anime API (optional - uses multiple sources)
+ANIME_API_KEY=optional_myanimelist_api_key
